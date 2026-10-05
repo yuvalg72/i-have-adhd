@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** Reference snapshot of the upstream ADHD-friendly prompting/output project.
+- **Local changes:** Before this notice, GitHub reported this fork as **0 commits ahead / 79 commits behind upstream**; this documentation notice is the local change introduced by this PR.
+- **Sync model:** Snapshot/reference fork. Upstream synchronization is explicit and must not be assumed automatically.
+- **License and attribution:** The inherited project is reported by GitHub as **MIT**. The existing license and attribution files remain authoritative.
+- **Links and project claims:** Badges, multilingual documentation, installation guidance, project claims, and other inherited links below belong to the upstream project unless explicitly marked as local.
+
+---
+
 <p align="center">
   <img src="./logo.png" alt="i-have-adhd" width="140" />
 </p>
